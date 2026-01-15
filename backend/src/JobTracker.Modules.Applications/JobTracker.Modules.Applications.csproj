@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\JobTracker.Shared\JobTracker.Shared.csproj" />
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
   </ItemGroup>
 
   <PropertyGroup>
